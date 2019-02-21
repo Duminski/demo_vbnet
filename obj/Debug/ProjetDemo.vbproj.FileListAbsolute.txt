@@ -1,0 +1,34 @@
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\bin\Debug\ProjetDemo.exe
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\bin\Debug\ProjetDemo.pdb
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\bin\Debug\ProjetDemo.xml
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.Form_menu.resources
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.Frm_1.resources
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.Frm_2.resources
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.Frm_3.resources
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.Frm_gestionUser.resources
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.Resources.resources
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.vbproj.GenerateResource.Cache
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.exe
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.xml
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.pdb
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.Form_Create.resources
+C:\Users\DuminLa\AppData\Local\Temporary Projects\ProjetDemo\obj\Debug\ProjetDemo.Form_Modify.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.exe
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.xml
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.pdb
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\bin\Debug\ProjetDemo.exe
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\bin\Debug\ProjetDemo.pdb
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\bin\Debug\ProjetDemo.xml
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Form_Create.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Form_menu.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Form_Modify.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Frm_1.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Frm_2.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Frm_3.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Frm_gestionUser.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Resources.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.vbproj.GenerateResource.Cache
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Frm_AddPopup.resources
+C:\Users\DuminLa\Documents\Visual Studio 2008\Projects\ProjetDemo\ProjetDemo\obj\Debug\ProjetDemo.Frm_ModifyPopup.resources
